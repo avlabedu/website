@@ -29,21 +29,21 @@
 
 ## Υποστηριζόμενοι Browser
 Τα rendering engines για τα οποία θα υπάρχουν διορθώσεις και ειδικές παρεμβάσεις στην περίπτωση που εμφανίζουν διαφορετική απόκριση σε σχέση με την αναμενόμενη των τυποποιημένων HTML5 - CSS3 είναι:
-1. Gecko (Mozilla Firefox)
-2. Blink (Opera, Chrome, Chromium)
-3. Webkit (Safari, παλιότερος Chrome)
+  1. Gecko (Mozilla Firefox)
+  1. Blink (Opera, Chrome, Chromium)
+  1. Webkit (Safari, παλιότερος Chrome)
 
 Θα αποφευχθεί η χρήση του CSS grid, μια που ενώ θα διευκόλυνε κατά πολύ την ανάπτυξη responsive συμπεριφοράς με χαμηλό υπολογιστικό footprint δεν έχει ακόμα ενταχθεί στο πρότυπο CSS3.
 
 ## Stack Εργαλείων
 Τα προτεινόμενα εργαλεία για το content curation και το development είναι τα εξής:
-* **Διανυσματικά γραφικά** - Inkscape
-* **Photo & Video Library Managment** - Digikam
-* **Photo & Library Database** - MySQL (σε περίπτωση που η πειραματική ενσωμάτωση της MySQL στο Digikam αποδειχθεί αρκετά σταθερή ώστε να προσφέρει ευκολία στην αποστολή content από οποιαδήποτε συσκευή είναι έμπιστη για να διαχειρίζεται μαζικά το περιεχόμενο)
-* **Photo Post Production** - GIMP
-* **Content Managment** - Wordpress
-* **Web Analytics** - google analytics ή matomo (πρώην Piwik)
-* **Version Control** - Git, Github
+  * **Διανυσματικά γραφικά** - Inkscape
+  * **Photo & Video Library Managment** - Digikam
+  * **Photo & Library Database** - MySQL (σε περίπτωση που η πειραματική ενσωμάτωση της MySQL στο Digikam αποδειχθεί αρκετά σταθερή ώστε να προσφέρει ευκολία στην αποστολή content από οποιαδήποτε συσκευή είναι έμπιστη για να διαχειρίζεται μαζικά το περιεχόμενο)
+  * **Photo Post Production** - GIMP
+  * **Content Managment** - Wordpress
+  * **Web Analytics** - google analytics ή matomo (πρώην Piwik)
+  * **Version Control** - Git, Github
 
 ## Λειτουργικές Απαιτήσεις
 1. Responsive Παρουσίαση του στατικού και δυναμικού περιεχομένου
