@@ -14,14 +14,14 @@
 
 ## Καλυπτόμενες Συσκεύες
 Διακρίνονται 4 form factor υπολογιστικών συσκευών, οι τεχνικές προδιαγραφές των οποίων περιγράφονται παρακάτω
-1. DESKTOP
-  * 1920px x 1080px
-1. LAPTOP
-  * 1366px x 788px
-1. TABLET
-  * to be determined
-1. MOBILE
-  * to be determined
+  1. DESKTOP
+    * 1920px x 1080px
+  1. LAPTOP
+    * 1366px x 788px
+  1. TABLET
+    * to be determined
+  1. MOBILE
+    * to be determined
 
 Η εκλογή των υποστηριζόμενων συσκευών δεν καλύπτει το τρέχον state of the art, που πλέον για τα desktop είναι 2K ή 4K, ενώ το user share για τα laptop το FullHD δεν έχει ακόμα κυριαρχήσει.
 Οι τεχνικές προδιαγραφές των κινητών συσκευών θα οριστούν όταν ερευνηθεί το penetration των διάφορων συσκευών. Θα ήταν χρήσιμο να ελεγχθούν τα analytics της τρέχουσας ιστοσελίδας, αν υπάρχουν. Ειδεμή, θα ληφθούν στατιστικά στοιχεία από το StatCounter και το W3Counter.
